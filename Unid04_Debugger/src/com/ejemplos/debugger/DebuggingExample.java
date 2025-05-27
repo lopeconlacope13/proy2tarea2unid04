@@ -8,7 +8,7 @@ import java.util.List;
  */
 public class DebuggingExample {
 	
-	//Modificado por: ALP
+	//Modificado por: ALP (Alvaro Lopez Perez)
     
     /**
      * Método principal que ejecuta el programa.
